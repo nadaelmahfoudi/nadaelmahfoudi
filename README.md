@@ -38,9 +38,7 @@ Je suis actuellement étudiante en deuxième année de **Développement MERN Sta
 
 ### 🚀 **DevOps Tools:**
 - **Containerization**: Docker
-- **Orchestration**: Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions
-- **Monitoring**: Prometheus, Grafana
+- **CI/CD**: GitHub Actions
 
 ---
 
